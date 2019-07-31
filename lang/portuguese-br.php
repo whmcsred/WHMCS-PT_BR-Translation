@@ -1,7 +1,7 @@
 <?php
 /**
  * WHMCS Language File
- * English (en)
+ * Brazillian Portuguese (pt-br)
  *
  * Please Note: These language files are overwritten during software updates
  * and therefore editing of these files directly is not advised. Instead we
@@ -21,7 +21,7 @@
 
 if (!defined("WHMCS")) die("This file cannot be accessed directly");
 
-$_LANG['locale'] = "en_GB";
+$_LANG['locale'] = "pt_BR";
 
 $_LANG['accountinfo'] = "Account Information";
 $_LANG['accountstats'] = "Account Statistics";
